@@ -1,0 +1,23 @@
+CREATE TABLE Drinks (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL
+);
+
+INSERT INTO Drinks (Name, Price) VALUES
+('Americano', 2.00),
+('Ice Matcha Latte', 4.00),
+('Passion Mango Tea', 2.50),
+('Milk Tea', 2.80),
+('Jasmine Tea', 1.50);
+
+CREATE TABLE Toppings (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL
+);
+
+INSERT INTO Toppings (Name, Price) VALUES
+('None', 0.00),
+('Boba', 0.75),
+('Jelly', 0.50);
