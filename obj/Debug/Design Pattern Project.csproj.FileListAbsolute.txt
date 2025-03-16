@@ -1,0 +1,80 @@
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design Pattern Project.csproj.AssemblyReference.cache
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design_Pattern_Project.Properties.Resources.resources
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design Pattern Project.csproj.GenerateResource.cache
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design Pattern Project.csproj.CoreCompileInputs.cache
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Design Pattern Project.exe.config
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Design Pattern Project.exe
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Design Pattern Project.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design Pattern Project.exe
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design Pattern Project.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Abstractions.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Extensions.MySql.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.Core.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.MySql.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Google.Protobuf.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\MySql.Data.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\MySqlConnector.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Buffers.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.IO.Pipelines.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Memory.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.ValueTuple.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\ZstdSharp.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Abstractions.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Abstractions.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Extensions.MySql.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Extensions.MySql.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.Core.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.Core.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.MySql.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\FluentMigrator.Runner.MySql.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Google.Protobuf.pdb
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Google.Protobuf.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\MySql.Data.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\MySqlConnector.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Buffers.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.IO.Pipelines.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Memory.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\System.ValueTuple.xml
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design P.75DB1673.Up2Date
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design_Pattern_Project.Form2.resources
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design_Pattern_Project.Form1.resources
+C:\Object Oriented Analysis & Design\Design Pattern Project\Design Pattern Project\obj\Debug\Design_Pattern_Project.Form3.resources
